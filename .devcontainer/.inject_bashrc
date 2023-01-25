@@ -1,0 +1,5 @@
+alias yychr="wine ~/workspace/.devcontainer/tools/yy-chr20120407_en/yychr.exe"
+alias mesen="mono ~/workspace/.devcontainer/tools/mesen.exe"
+alias famstudio="mono ~/workspace/.devcontainer/tools/FamiStudio/FamiStudio.exe"
+sudo chmod 666 /dev/snd/seq
+
